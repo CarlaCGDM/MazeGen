@@ -13,7 +13,7 @@ import bpy
 from bpy.types import (Panel,Operator)
 from random import randint
 from pathlib import Path
-generador = bpy.data.texts["script.py"].as_module()
+generador = bpy.data.texts["dibujador_laberintos.py"].as_module()
 
 #Creamos la clase botón:
 class GenerateButtonOperator(bpy.types.Operator):
