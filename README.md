@@ -15,9 +15,9 @@ Descarga el fichero MazeGen.zip y cárgalo desde 'Edit' -> 'Preferences' -> 'Add
 (añadir gif)
 
 ### Futuras funciones:
-[x] Generar laberinto y animación de manera independiente.
-[ ] Elegir materiales.
-[ ] Elegir dimensiones.
+-[x] Generar laberinto y animación de manera independiente.
+-[ ] Elegir materiales.
+-[ ] Elegir dimensiones.
 - Posibilidad de elegir entre distintos algoritmos de resolución. 
 - Generar laberinto en el origen del centro de coordenadas.
 - Generar automáticamente una cámara que lo enfoque correctamente.
