@@ -10,7 +10,7 @@ Los laberintos se generan mediante una implementación del algoritmo de Prim. De
 En blender, se representa gráficamente la matriz haciendo uso de la librería BPY y posteriormente se genera la animación insertando un keyframe para cada punto del recorrido. 
 
 ### Instalación:
-Descarga el fichero MazeGen.zip y cárgalo desde Edit -> Preferences -> Addons -> Install Custom Addon
+Descarga el fichero MazeGen.zip y cárgalo desde 'Edit' -> 'Preferences' -> 'Addons' -> 'Install...'. La pestaña "MazeGen" aparecerá en la barra lateral derecha de la vista 3D (N-Panel).
 
 (añadir gif)
 
