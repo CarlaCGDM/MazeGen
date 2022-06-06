@@ -2,8 +2,6 @@
 ### V.1.1
 Addon para Blender que permite generar laberintos semi-aleatorios con el algoritmo de Prim y resolverlos con el algoritmo BFS. Descarga el fichero MazeGen.zip, cárgalo en blender desde 'Edit' -> 'Preferences' -> 'Addons' -> 'Install...' y actívalo para poder utilizarlo. Aparecerá en el menú lateral derecho de la vista 3D.
 
-![mazegen_01](https://user-images.githubusercontent.com/92323990/171994106-5b812e5e-2171-4ee9-be7f-cb91866f95e1.gif)
-
 ![MazeGenV1 1](https://user-images.githubusercontent.com/92323990/172186123-09c3f366-bbd1-40da-8591-0d1297f570a6.gif)
 
 ### Actualizaciones:
